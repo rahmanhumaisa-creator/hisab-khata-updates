@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "versionCode": 120,
-  "versionName": "1.2.0",
+  "versionCode": 130,
+  "versionName": "1.3.0",
   "minAndroidSdk": 23,
-  "apkUrl": "https://raw.githubusercontent.com/rahmanhumaisa-creator/hisab-khata-updates/main/apk/Hisab-Khata-v1.2.0.apk",
-  "sha256": "75353f1e95c6ec3a4a7bc1441d1c469905323009657070145ea0acc6832b54a4",
-  "sizeBytes": 5313252,
-  "publishedAt": "2026-10-19T14:36:53.320656+00:00",
+  "apkUrl": "https://raw.githubusercontent.com/rahmanhumaisa-creator/hisab-khata-updates/main/apk/Hisab-Khata-v1.3.0.apk",
+  "sha256": "1aa385aba0071698423c054a139f6e7d8d76c904ad968260c1e013f74e870e86",
+  "sizeBytes": 5326000,
+  "publishedAt": "2026-10-19T15:03:03.902962+00:00",
   "notes": {
-    "bn": "নগদ ও বাকি আলাদা, পাওনা–দেনা ও আংশিক পরিশোধ, অ্যাপ খুললে আপডেটের খবর।",
-    "en": "Cash and credit, receivables/payables, partial payments and opening-time update notices.",
-    "hi": "नकद और उधार, आंशिक भुगतान और ऐप खोलने पर अपडेट सूचना।",
-    "ar": "النقد والآجل والدفعات الجزئية وإشعارات التحديث عند فتح التطبيق.",
-    "ur": "نقد اور ادھار، جزوی ادائیگیاں اور ایپ کھولنے پر اپ ڈیٹ کا پیغام۔"
+    "bn": "ডায়নামিক বার, রেখা ও বৃত্তাকার গ্রাফ; সময়সীমা, নগদ–বাকি ও পাওনা–দেনার চিত্র। হিসাব বদলালেই গ্রাফ হালনাগাদ।",
+    "en": "Live bar, line and donut charts for cash flow, cash/credit and outstanding dues, with date filters and interactive details.",
+    "hi": "नकद, उधार और बकाया के लिए डायनेमिक बार, लाइन और डोनट ग्राफ; तारीख फ़िल्टर और लाइव अपडेट।",
+    "ar": "رسوم أعمدة وخطوط وحلقات تفاعلية للنقد والآجل والمستحقات مع فلاتر التاريخ والتحديث التلقائي.",
+    "ur": "نقد، ادھار اور بقایا کے لیے ڈائنامک بار، لائن اور ڈونٹ گراف، تاریخ کے فلٹر اور خودکار اپ ڈیٹ۔"
   }
 }

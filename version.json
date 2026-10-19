@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 120,
+  "versionName": "1.2.0",
+  "minAndroidSdk": 23,
+  "apkUrl": "https://raw.githubusercontent.com/rahmanhumaisa-creator/hisab-khata-updates/main/apk/Hisab-Khata-v1.2.0.apk",
+  "sha256": "75353f1e95c6ec3a4a7bc1441d1c469905323009657070145ea0acc6832b54a4",
+  "sizeBytes": 5313252,
+  "publishedAt": "2026-10-19T14:36:53.320656+00:00",
+  "notes": {
+    "bn": "নগদ ও বাকি আলাদা, পাওনা–দেনা ও আংশিক পরিশোধ, অ্যাপ খুললে আপডেটের খবর।",
+    "en": "Cash and credit, receivables/payables, partial payments and opening-time update notices.",
+    "hi": "नकद और उधार, आंशिक भुगतान और ऐप खोलने पर अपडेट सूचना।",
+    "ar": "النقد والآجل والدفعات الجزئية وإشعارات التحديث عند فتح التطبيق.",
+    "ur": "نقد اور ادھار، جزوی ادائیگیاں اور ایپ کھولنے پر اپ ڈیٹ کا پیغام۔"
+  }
+}

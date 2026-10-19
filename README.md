@@ -1,2 +1,11 @@
-# hisab-khata-updates
-Public Hisab Khata APK downloads and version feed only. No ledger data or private source repository.
+# হিসাব খাতা — APK ও আপডেট
+
+**[অ্যাপ ডাউনলোড — v1.2.0](apk/Hisab-Khata-v1.2.0.apk)**
+
+এখানে শুধু পরীক্ষামূলক Android APK, SHA-256 checksum ও version.json রাখা আছে। ব্যক্তিগত হিসাব, পাওনা–দেনা, ব্যক্তির নাম বা সোর্স রিপোজিটরি এখানে রাখা হয় না। APK ইনস্টল করতে Android 6.0+ ও আপডেটেড Android System WebView প্রয়োজন। এটি debug-signed পরীক্ষামূলক বিল্ড, Play Store release নয়।
+
+নগদ, বাকি, আংশিক পরিশোধ ও JSON ব্যাকআপ সমর্থিত। v1.2.0 বা নতুন অ্যাপ খুললে ইন্টারনেট থাকলে এই version.json দেখে নতুন ভার্সনের বার্তা দেখায়। অ্যাপ বন্ধ অবস্থায় push notification বা silent install করা হয় না। আপডেট ডাউনলোড করে ব্যবহারকারীকেই ইনস্টল করতে হবে।
+
+APK-র হিসাব ডিভাইসেই থাকে। অ্যাপ uninstall করার আগে JSON backup নিন। প্রকৃত Android ফোনে যাচাই করে ব্যবহার করুন।
+
+SHA-256: `75353f1e95c6ec3a4a7bc1441d1c469905323009657070145ea0acc6832b54a4`
